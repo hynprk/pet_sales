@@ -6,6 +6,8 @@ Tools used: R (R Studio), MySQL, Microsoft Excel
 
 ## Contents
 
+*See [here](https://github.com/hynprk/pet_sales/blob/main/report.pdf) for the full report.*
+
 **I. About the Company**
 
 **II. Business Task**
