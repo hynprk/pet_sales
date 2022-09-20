@@ -1,2 +1,2 @@
-# pet_sales
-Analyzing sales data to launch pet box subscriptions
+# Launching Pet Box Subscriptions by Analyzing Pet Product Sales
+
